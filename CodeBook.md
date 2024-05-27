@@ -14,7 +14,6 @@ The code in the run_analysis.R file performs the following tasks:
 
 
 ----------------------------------------------------------------------
-
 Variable names included in the combined dataset:
 'data.frame':	10299 obs. of  68 variables:
 

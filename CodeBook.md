@@ -12,8 +12,6 @@ The code in the run_analysis.R file performs the following tasks:
 3. Extracts a subset of columns pertaining to mean() and std() measures using grep command.
 4. Creates a summary dataframe and a file that groups the above dataframe by activity and subject and calculates mean for the subset of columns specified above.
 
-
-----------------------------------------------------------------------
 Variable names included in the combined dataset:
 'data.frame':	10299 obs. of  68 variables:
 
